@@ -8,10 +8,10 @@ Whether it's tabular data, regression tasks, or visual storytelling—I enjoy ev
 ### 🔧 My Skill Toolbox Includes:
 - **Programming Languages**: Python (pandas, NumPy, scikit-learn, PyTorch), LaTeX  
 - **Machine Learning**: Random Forest, XGBoost, LightGBM, TabNet, Logistic Regression  
-- **Model Interpretation**: SHAP, PFI, attention mechanisms  
-- **Data Analysis & Preprocessing**: feature engineering, data cleaning, encoding techniques (Target, Frequency Encoding)  
+- **Model Interpretation**: SHAP, PFI, cPFI, FK-RFE, attention mechanisms  
+- **Data Analysis & Preprocessing**: feature engineering, data cleaning, Box-Cox Transformation,encoding techniques (Target, Frequency Encoding)  
 - **Statistical Modeling**: OLS, Quantile Regression, ANOVA, heteroskedasticity testing  
-- **Visualization & Tools**: Matplotlib, Seaborn, Power BI, GitHub, Jupyter Notebooks  
+- **Visualization & Tools**: Matplotlib, GitHub, Jupyter Notebooks  
 
 ---
 
