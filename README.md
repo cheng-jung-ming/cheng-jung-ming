@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Cheng-Jung Ming!  
 ## 🧠 A Data Explorer Who Loves Making Numbers Talk
 
-I'm a graduate student with a strong curiosity for **data science**, **machine learning**, and the **art of model interpretation**.  
-I specialize in digging deep into data to uncover meaningful patterns, using both statistical methods and modern AI tools.  
-Whether it's tabular data, regression tasks, or visual storytelling—I enjoy every step of the journey from raw data to clear insight.
+I'm a passionate data enthusiast with a deep curiosity for **data science**, **machine learning**, and the art of model interpretation.
+I love diving into data to uncover meaningful patterns—blending statistical thinking with cutting-edge AI tools.
+Whether it's working with tabular data, solving regression problems, or crafting compelling data stories, I enjoy every step from raw input to insightful output.
 
 ### 🔧 My Skill Toolbox Includes:
 - **Programming Languages**: Python (pandas, NumPy, scikit-learn, PyTorch), LaTeX  
