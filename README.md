@@ -6,7 +6,7 @@ I love diving into data to uncover meaningful patterns—blending statistical th
 Whether it's working with tabular data, solving regression problems, or crafting compelling data stories, I enjoy every step from raw input to insightful output.
 
 ### 🔧 My Skill Toolbox Includes:
-- **Programming Languages**: Python (pandas, NumPy, scikit-learn, PyTorch), LaTeX  
+- **Programming Languages**: Python (pandas, NumPy, scikit-learn, PyTorch), LaTeX ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)
 - **Machine Learning**: Random Forest, XGBoost, LightGBM, TabNet, Logistic Regression  
 - **Model Interpretation**: SHAP, PFI, cPFI, FK-RFE, attention mechanisms  
 - **Data Analysis & Preprocessing**: feature engineering, data cleaning, Box-Cox Transformation,encoding techniques (Target, Frequency Encoding)  
@@ -46,8 +46,6 @@ Let’s connect and talk about AI, modeling, or just nerd out over SHAP plots!
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)
-
 
 > “All models are wrong, but some are useful.” – George Box
 
