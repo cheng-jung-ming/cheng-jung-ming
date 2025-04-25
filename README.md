@@ -12,8 +12,12 @@ Whether it's working with tabular data, solving regression problems, or crafting
 - **Data Analysis & Preprocessing**: feature engineering, data cleaning, Box-Cox Transformation,encoding techniques (Target, Frequency Encoding)  
 - **Statistical Modeling**: OLS, Quantile Regression, ANOVA, heteroskedasticity testing  
 - **Visualization & Tools**: Matplotlib, GitHub, Jupyter Notebooks  
-![Cheng-Jung Ming](images/最佳似然值圖示.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cheng-jung-ming/cheng-jung-ming/main/image/boxcox_likelihood_plot.png" width="600"/>
+</p>
 
+**Box-Cox 轉換：最大化對數似然值選擇最佳 λ**
+> 使用 Box-Cox 方法處理目標變數的偏態分佈，藉由最大化對數似然值提升模型預測穩定性。
 ---
 
 ## 🔍 What I'm Working On:
