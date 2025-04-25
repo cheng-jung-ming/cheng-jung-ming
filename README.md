@@ -40,12 +40,13 @@ Let’s connect and talk about AI, modeling, or just nerd out over SHAP plots!
 
 ## 🛠️ Tools & Tech Stack
 - Python (pandas, scikit-learn, SHAP, PyTorch)
-- Machine Learning & Deep Learning (Random Forest, TabNet)
-- Data Visualization (Matplotlib)
-- Statistical Modeling (OLS, Quantile Regression)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+- Machine Learning & Deep Learning (Random Forest, TabNet)
+- Data Visualization (Matplotlib)
+- Statistical Modeling (OLS, Quantile Regression)
+
 
 > “All models are wrong, but some are useful.” – George Box
 
