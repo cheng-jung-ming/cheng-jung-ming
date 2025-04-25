@@ -12,7 +12,7 @@ Whether it's working with tabular data, solving regression problems, or crafting
 - **Data Analysis & Preprocessing**: feature engineering, data cleaning, Box-Cox Transformation,encoding techniques (Target, Frequency Encoding)  
 - **Statistical Modeling**: OLS, Quantile Regression, ANOVA, heteroskedasticity testing  
 - **Visualization & Tools**: Matplotlib, GitHub, Jupyter Notebooks  
-![Performance Plot](images/最佳似然值圖示.png)
+![Cheng-Jung Ming](images/最佳似然值圖示.png)
 
 ---
 
