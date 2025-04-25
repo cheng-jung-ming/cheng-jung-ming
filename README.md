@@ -13,7 +13,7 @@ Whether it's working with tabular data, solving regression problems, or crafting
 - **Statistical Modeling**: OLS, Quantile Regression, ANOVA, heteroskedasticity testing  
 - **Visualization & Tools**: Matplotlib, GitHub, Jupyter Notebooks  
 <p align="center">
-  <img src="https://github.com/cheng-jung-ming/cheng-jung-ming/images/boxcox_likelihood_plot.png" width="600"/>
+  <img src="https://github.com/cheng-jung-ming/cheng-jung-ming/main/images/boxcox_likelihood_plot.png" width="600"/>
 </p>
 
 **Box-Cox 轉換：最大化對數似然值選擇最佳 λ**
