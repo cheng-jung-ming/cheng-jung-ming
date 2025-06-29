@@ -48,6 +48,9 @@ Let’s connect and talk about AI, modeling, or just nerd out over SHAP plots!
 ### 🔹 [ML-Feature-Selection-Project](https://github.com/cheng-jung-ming/ML-Feature-Selection-Project)  
 🌟 最新期末專題，專注於特徵選擇方法（PFI, SHAP, RF內部計算、cPFI、FK-RFE),比較模型以RF(ML)與TabNet(DL)為主，並以Kaggle公開數據集（電信客戶流失、高維房價預測)，以SHAP Dependence plot結合故事化背景進行解釋與視覺呈現，本報告最終獲得93分的課程成績，班排第一。
 
+### 🔹 [Ocean-Meets-Forest](https://github.com/cheng-jung-ming/Ocean-Meets-Forest)  
+📈本研究以台中港為例，蒐集並分析 2020 年 5 月至 2025 年 4 月間之 港口進出艘次資料，資料來源皆取自交通部指定之「iMarine 航港發展資料 庫」，同時首度結合機器學習與 SHAP 方法進行港口艘次預測、特徵解釋與資料洞察，並成功達成卓越的預測效能 (R2=0.96)。報告中以統計圖表為基礎，說明模型邏輯與特徵重要性分析，並透過如熱力圖、趨勢線圖等方式同步驗證，最終達成兩者的融合與驗證。
+
 ---
 
 ## 🛠️ Tools & Tech Stack
