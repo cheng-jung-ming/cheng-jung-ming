@@ -46,7 +46,7 @@ Let’s connect and talk about AI, modeling, or just nerd out over SHAP plots!
 多數模型能指出哪些特徵重要，卻難以揭露特徵間的交互作用與個別樣本的貢獻細節——SHAP 則能精確描述這些微觀變化。
 
 ### 🔹 [ML-Feature-Selection-Project](https://github.com/cheng-jung-ming/ML-Feature-Selection-Project)  
-🌟 最新期末專題，專注於特徵選擇方法（PFI, SHAP, RF內部計算、cPFI、FK-RFE),比較模型以RF(ML)與TabNet(DL)為主，並以Kaggle公開數據集（電信客戶流失、高維房價預測)，以SHAP Dependence plot結合故事化背景進行解釋與視覺呈現。
+🌟 最新期末專題，專注於特徵選擇方法（PFI, SHAP, RF內部計算、cPFI、FK-RFE),比較模型以RF(ML)與TabNet(DL)為主，並以Kaggle公開數據集（電信客戶流失、高維房價預測)，以SHAP Dependence plot結合故事化背景進行解釋與視覺呈現，本報告最終獲得93分的課程成績，班排第一。
 
 ---
 
